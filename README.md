@@ -5,3 +5,16 @@ Hello! I am a passionate and dedicated Full Stack developer with a strong focus 
 
 ## Contact me
 As I continue my journey in Full Stack development, I am always looking for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+
+## Technologies
+- Back-End: Proficient in Java, I bring a solid knowledge of server-side development.
+- Front-End: My experience in Angular allows me to create interactive and easy-to-use interface
+
+## Skills
+Problem solving: As a developer, I love solving complex problems. I am constantly exploring new technologies.
+
+## Hobbies
+- I like to read, write, learn something new, walk on the beach.
+
+## Languages
+- Spanish
