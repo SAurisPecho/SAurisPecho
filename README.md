@@ -13,4 +13,5 @@ As I continue my journey in Full Stack development, I am always looking for coll
 ## Skills
 Problem solving: As a developer, I love solving complex problems. I am constantly exploring new technologies.
 
-
+## Hobbies
+- I like to read, write, learn something new, walk on the beach.
