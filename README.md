@@ -8,4 +8,9 @@ As I continue my journey in Full Stack development, I am always looking for coll
 
 ## Technologies
 - Back-End: Proficient in Java, I bring a solid knowledge of server-side development.
-- Front-End: My experience in Angular allows me to create interactive and easy-to-use interfaces.
+- Front-End: My experience in Angular allows me to create interactive and easy-to-use interface
+
+## Skills
+Problem solving: As a developer, I love solving complex problems. I am constantly exploring new technologies.
+
+
